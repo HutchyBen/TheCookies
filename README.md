@@ -26,6 +26,7 @@ THE official HutchyBen cookie recipe.
 
 - Do not use baking powder, this will lead to a more cakey cookie.
 - For chocolate, I recommend buying a bar of cooking chocolate and cutting into chunks. Chocolate chips will also work fine though.
+- You can try other ratios of brown and white sugar, more brown leads to denser cookie more moist cookies and white makes it more fluffier and sweeter.
 
 <details>
 <summary>How to brown butter</summary>
