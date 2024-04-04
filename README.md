@@ -20,7 +20,7 @@ THE official HutchyBen cookie recipe.
 ### If wanting to make a chocolate dough
 
 - 50g Cocoa Powder
-- 120g Plain Flour
+- 110g Plain Flour
 
 ### Notes
 
