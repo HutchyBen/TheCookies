@@ -14,8 +14,8 @@ THE official HutchyBen cookie recipe.
 - 1tsp Vanilla Extract
 - 1tsp Baking Soda
 - 1tsp Salt
-- 150g Plain Flour
-- 150g Chocolate
+- 160g Plain Flour
+- 125g Chocolate
 
 ### If wanting to make a chocolate dough
 
