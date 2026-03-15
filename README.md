@@ -2,8 +2,7 @@
 
 THE official HutchyBen cookie recipe.
 
-<img src="https://github.com/HutchyBen/TheCookies/assets/38333275/802144f6-2ce3-4f2b-9321-23eb1641b255" alt="Cookie" height=200px>
-<img src="https://github.com/HutchyBen/TheCookies/assets/38333275/d4c54a38-b19d-4a9f-861f-a75899113048" alt="Cookie" height=200px>
+<img src="./image.jpg" alt="Cookie" height=400px>
 
 ## Ingredients
 
