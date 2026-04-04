@@ -6,14 +6,14 @@ THE official HutchyBen cookie recipe.
 
 ## Ingredients
 
-- 130g Unsalted Butter (Browned)
+- 150g Unsalted Butter (Browned)
 - 200g Dark Brown Sugar
 - 60g White Sugar
 - 1 Egg
 - 1tsp Vanilla Extract
 - 1tsp Baking Soda
 - 1tsp Salt
-- 160g Plain Flour
+- 180g Plain Flour
 - 125g Chocolate
 
 ### If wanting to make a chocolate dough
